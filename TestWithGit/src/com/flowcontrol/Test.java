@@ -60,6 +60,7 @@ public class Test {
 
 		Solution n = new Solution();
 	System.out.println(n.solution("13+*"));
+	System.out.println("guru");
 	//n.printStack();
 //	 char c='1';
 //	 char b='2';
